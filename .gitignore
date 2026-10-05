@@ -1,0 +1,27 @@
+# --- Build output / local experiments -------------------------------------
+# The self-extracting launcher is a build artifact: attach it to a Release
+# instead of committing it.
+*.exe
+dist/
+out/
+build/
+
+# --- Test scratch files -----------------------------------------------------
+dino_selftest.txt
+ChromeDino_launcher.log
+dinobuild*/
+*.tmp
+w_*.tmp
+junk_rows.xml
+
+# --- Editors / OS -----------------------------------------------------------
+.vscode/
+.idea/
+*.swp
+Thumbs.db
+desktop.ini
+Desktop.ini
+
+# --- Local captures ---------------------------------------------------------
+screenshots/local/
+*.log
