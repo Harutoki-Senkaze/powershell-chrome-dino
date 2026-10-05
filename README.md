@@ -1,3 +1,5 @@
+<img width="1335" height="688" alt="02" src="https://github.com/user-attachments/assets/14f54d7c-9830-4b62-b3fc-d0d485ca5c54" />
+<img width="1336" height="690" alt="01" src="https://github.com/user-attachments/assets/67a516f4-d7f1-464b-81aa-21fbca007ba2" />
 # Chrome Dino — Terminal Edition
 
 A frame-accurate re-implementation of the **Chrome offline T-Rex game** that runs entirely inside a
